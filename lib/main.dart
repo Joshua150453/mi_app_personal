@@ -6,8 +6,8 @@
  * Actividad principal (Formulario)
  * Permite ingresar datos de usuario: nombre, edad, ciudad, correo.
  * Autor: Joshua David Ortiz Rosas
- * Fecha creación: 20/09/2025
- * Última modificación: 23/09/2025
+ * Fecha creación: 30/10/2025
+ * Última modificación: 01/01/2025
  */
 
 import 'package:flutter/material.dart';
@@ -41,8 +41,8 @@ class MyApp extends StatelessWidget {
 
       // Aquí se define cuál pantalla se mostrará al ejecutar la app
       // Cambiar manualmente para probar cada pantalla
-      // home: const PantallaInicio(),
-      home: const PantallaPerfil(),
+      home: const PantallaInicio(),
+      // home: const PantallaPerfil(),
       // home: const PantallaHobbies(),
     );
   }
