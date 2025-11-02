@@ -4,10 +4,9 @@
 
 /*
  * Actividad principal (Formulario)
- * Permite ingresar datos de usuario: nombre, edad, ciudad, correo.
  * Autor: Joshua David Ortiz Rosas
  * Fecha creación: 30/10/2025
- * Última modificación: 01/01/2025
+ * Última modificación: 02/11/2025
  */
 
 import 'package:flutter/material.dart';
