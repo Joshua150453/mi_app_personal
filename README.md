@@ -26,7 +26,7 @@
             <tr>
                 <td colspan="2">
                     <table>
-                        <tr><td>ASIGNATURA:</td><td>Programción para Dispositivos Moviles</td></tr>
+                        <tr><td>ASIGNATURA:</td><td>Programación para Dispositivos Moviles</td></tr>
                         <tr><td>TÍTULO DEL TRABAJO:</td><td> Tarea Evidencia 3</td></tr>
                         <tr>
                             <td>NÚMERO DEL TRABAJO:</td><td>08 - Tarea Evidencia</td>
