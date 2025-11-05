@@ -58,6 +58,7 @@
     </table>
 </div>
 
+🔗 [Ubicacion de los archivos para la realizacion de la actividad](https://github.com/Joshua150453/mi_app_personal/tree/master/lib)
 ## Aplicación Personal en Flutter
 ### 🎯 Objetivo
 Crear tres interfaces gráficas en Flutter, sin programación de lógica, para practicar el uso de widgets como Text, Image, Column, Row, Padding y Container. Cada interfaz representa una pantalla diferente de una aplicación personal.
